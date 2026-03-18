@@ -35,5 +35,6 @@ print(sentiment)
 <img width="1914" height="1079" alt="image" src="https://github.com/user-attachments/assets/4970f778-efc8-4bc3-bb3b-189fef13f005" />
 
 
-Result: 
+**Result**
+
 The code is executed successfully.
